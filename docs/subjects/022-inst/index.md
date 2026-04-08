@@ -2,6 +2,6 @@
 icon: lucide/gauge
 ---
 
-# Knowledge, Skills & Attitude (KSA)
+# Instrumentation
 
 _TODO_

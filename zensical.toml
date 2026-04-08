@@ -56,7 +56,7 @@ copyright = """
   {"AGK" = [
      "subjects/021-agk/index.md",
   ]},
-  {"Instruments" = [
+  {"Instrumentation" = [
     "subjects/022-inst/index.md",
   ]},
   {"Mass & Balance" = [
