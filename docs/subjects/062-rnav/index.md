@@ -2,6 +2,6 @@
 icon: lucide/radio-tower
 ---
 
-# Knowledge, Skills & Attitude (KSA)
+# Radio Navigation
 
 _TODO_
