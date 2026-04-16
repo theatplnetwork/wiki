@@ -1,4 +1,4 @@
-# Knowledge
+# Wiki
 
 The collective knowledge of the ATPL Network
 

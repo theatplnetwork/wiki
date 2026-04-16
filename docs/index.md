@@ -7,7 +7,7 @@ title: Home
 
 ![The ATPL Network Banner](/assets/banner.gif)
 
-## About _The ATPL Knowledge_ project
+## About _The ATPL Wiki_ project
 
 This project is aimed to collect and provide knowledge about aviation, including, but not limited to the path to a European pilot license. Community based. For free.
 

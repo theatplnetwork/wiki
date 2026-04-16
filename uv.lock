@@ -33,7 +33,7 @@ wheels = [
 ]
 
 [[package]]
-name = "knowledge"
+name = "Wiki"
 version = "0.1.0"
 source = { virtual = "." }
 

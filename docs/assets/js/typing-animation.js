@@ -1,6 +1,6 @@
 class TypingAnimation {
     constructor() {
-        this.texts = ["The ATPL Network", "The ATPL Knowledge"];
+        this.texts = ["The ATPL Wiki", "The ATPL Network"];
         this.currentTextIndex = 0;
         this.currentCharIndex = 0;
         this.isDeleting = false;
