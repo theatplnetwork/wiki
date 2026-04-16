@@ -56,6 +56,35 @@ you are subject to crediting of flight hours. This can reduce the total cost of 
 it is likely that your experience will not be credited in full. A modular course will likely be more cost
 effective.
 
+## Finding a Flight School
+
+After you have decided on what pathway of getting your license, it's now time to find the flight school that will
+make that dream come true. In Europe, there are many flight schools to choose from, ranging from small modular setups
+to large airline-integrated academies.
+
+One of the most important factors is financial stability. Pilot training requires large upfront costs, and if a school
+goes bankrupt mid-training, students can be left stranded. A recent example is Pilot Flight Academy in Norway, which 
+faced bankruptcy in 2026, leaving students in an uncertain position after paying significant fees. Situations like this 
+show why it’s important to research ownership, funding, and long-term stability before committing.
+
+You should also look closely at a school’s track record for finishing students on time. Many schools advertise fast
+programs, but delays due to poor scheduling, instructor shortages, or aircraft availability are common.
+A reliable school should have a consistent flow that allows students to progress without long breaks.
+
+Value for money is another key point. The cheapest option is not always the best, as limited aircraft or poor organization 
+can lead to delays that cost more in the long run. At the same time, high price does not guarantee quality - efficiency
+and structure matter more than branding.
+
+It’s also worth noting that you will likely need to leave your home country to start training. Many students move to countries
+with better weather and lower costs, such as Spain or Eastern Europe, which can significantly improve training speed and consistency.
+
+Other important considerations include aircraft maintenance, instructor quality, weather conditions, student accommodation, and
+whether the school has a structured training system that fits your learning style.
+
+In the end, choosing a flight school is about more than just starting your training - it’s about ensuring you can realistically 
+and safely finish it, without unnecessary delays or financial risk.
+
+
 <!-- prettier-ignore-start -->
 *[EASA]: European Union Aviation Safety Agency
 *[CAA]: Civil Aviation Authority
