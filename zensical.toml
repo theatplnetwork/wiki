@@ -370,7 +370,7 @@ toggle.name = "Switch to system preference"
 # ----------------------------------------------------------------------------
 [[project.extra.social]]
 icon = "fontawesome/brands/github"
-link = "https://github.com/theatplnetwork/knowledge"
+link = "https://github.com/theatplnetwork/wiki"
 [[project.extra.social]]
 icon = "fontawesome/brands/discord"
 link = "https://discord.atpl.network"
