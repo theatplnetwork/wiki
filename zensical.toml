@@ -378,7 +378,6 @@ link = "https://discord.atpl.network"
 # ----------------------------------------------------------------------------
 # Markdown Extensions
 # ----------------------------------------------------------------------------
-
 [project.markdown_extensions.abbr]
 [project.markdown_extensions.admonition]
 [project.markdown_extensions.attr_list]
