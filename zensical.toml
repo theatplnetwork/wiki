@@ -437,3 +437,6 @@ case = "lower"
 custom_checkbox = true
 
 [project.markdown_extensions.pymdownx.tilde]
+
+[project.markdown_extensions.zensical.extensions.preview]
+targets.include = ["*"]
